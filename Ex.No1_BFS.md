@@ -32,7 +32,7 @@ graph = {
  def bfs(visited, graph, node): #function for BFS
  	 visited.append(node)
   	queue.append(node)
-  		while queue:          # Creating loop to visit each node
+  		while queue:  # Creating loop to visit each node
     			m = queue.pop(0) 
     			print (m) 
     			for neighbour in graph[m]:
