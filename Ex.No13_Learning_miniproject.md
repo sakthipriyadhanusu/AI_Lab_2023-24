@@ -5,7 +5,7 @@
 To write a program to train the classifier for Plant Growth Data
 
 ###  Algorithm:
-
+```
 1.Load Data: Load the dataset and split it into features (X) and target (y). 
 2.Train-Test Split: Split the data into training and testing sets. 
 3.Handle Imbalance: Apply SMOTE to balance the training set.
@@ -16,7 +16,7 @@ features.
 max_depth, etc.
 7.Model Training: Train the model on the balanced training data. 8.Evaluate: Predict
 on test data, and evaluate using accuracy, confusion matrix, and classification report.
-
+```
 
 ### Program:
 ```
