@@ -53,6 +53,11 @@ for name, (clf, params) in classifiers.items():
     print(f"{name}: Best Params: {grid_search.best_params_}, Accuracy: {accuracy:.4f}")
 ```
 ### Output:
+
+![Screenshot 2024-11-11 160646](https://github.com/user-attachments/assets/b682f907-ae8d-462e-92de-0681ada725a6)
+
+![Screenshot 2024-11-11 160658](https://github.com/user-attachments/assets/c69050ad-c5ef-46c8-9410-388b304ca9d6)
+
 ![Screenshot 2024-10-10 135744](https://github.com/user-attachments/assets/12e60eb2-9283-416b-b6d0-010a1e7b96be)
 
 
