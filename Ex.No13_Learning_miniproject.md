@@ -1,8 +1,8 @@
-# Ex.No: 10 Learning – Use Supervised Learning  
+# Ex.No: 13 Machine Learning Using Supervised Learning - Mini Project
 ### DATE:  24.10.24                                                                         
 ### REGISTER NUMBER : 212222040139
 ### AIM: 
-To write a program to train the classifier for Plant Growth Data
+To write a program to train the classifier for Plant Growth Data using random forest classifier.
 
 ###  Algorithm:
 ```
